@@ -26,7 +26,7 @@ It demonstrates the company's commitment to revolutionizing the automotive indus
 
 ## Screenshots
 
-![Image](https://github.com/salah-alstre/Apple/blob/main/Apple.jpg)
+![Image](https://github.com/salah-alstre/E-Drive-Showcase/blob/main/images/tesla.logo.jpg)
 
 
 ## Demo:
