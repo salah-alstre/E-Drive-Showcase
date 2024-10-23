@@ -30,7 +30,7 @@ It demonstrates the company's commitment to revolutionizing the automotive indus
 
 
 ## Demo:
-Check out the live version of the portfolio here: [Demo Link](https://project-snowy-zeta.vercel.app/)
+Check out the live version of the portfolio here: [Demo Link](https://e-drive-showcase.vercel.app/)
 
 ## How to Use
 
